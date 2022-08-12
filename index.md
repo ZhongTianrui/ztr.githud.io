@@ -37,10 +37,31 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
-# c++
-我记得我是从2021年9月开始学编程的，我接触到的第一个编程语言是python，那时候，我开是学习最基础的运算，我写的第一个程序是输出“hello world”：
+# OI
+
+我的引路人有三位：
+
+1. 乐博教育的波波老师，是他带我接触编程的。
+2. 小图灵教育的张天伟老师。
+3. 小图灵教育的王老师。
+
+我记得我是从2021年6月开始学编程的，我接触到的第一个编程语言是python，那时候，我开是学习最基础的运算，我写的第一个程序是输出“hello world”：
 ```python
 print("hello world")
+```
+我从那时候起开始学习OI。
+
+学习了1个月，我又开始学习c++。我报名的机构是小图灵教育，分为L1~L8，最开始，我报名了L1。在九月上课之前，我努力地预习c++，我的第一个c++程序是：
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+	int a;
+	cin >> a;
+	cout << "hello world " << a;
+	return 0;
+}
 ```
 
 <!--in <https://www.luogu.com.cn/user/602124#main>
