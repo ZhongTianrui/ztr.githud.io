@@ -46,12 +46,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 3. 小图灵教育的王老师。
 
 我记得我是从2021年6月开始学编程的，我接触到的第一个编程语言是python，那时候，我开是学习最基础的运算，我写的第一个程序是输出“hello world”：
+
 ```python
 print("hello world")
 ```
+
 我从那时候起开始学习OI。
 
 学习了1个月，我又开始学习c++。我报名的机构是小图灵教育，分为L1~L8，最开始，我报名了L1。在九月上课之前，我努力地预习c++，我的第一个c++程序是：
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -63,6 +66,8 @@ int main()
 	return 0;
 }
 ```
+
+上课了，我努力预习的效果出来了，我会的比课上其他同学都多，第一次考试时，我吊打全班，我AK后半小时才有第二个人AK，给我上课的老师是张天伟张老师，他看到我很强后建议我跳级，他说我不用上L1了，于是我就跳过后半段L1，跳过L2，直接上L3。在L3，我还是并列第一，到最后，我又跳到了L4。在L3后期，我考上了小图灵集训队，王老师是集训队的教练，我在那和更多优秀的同学一起探究新知识，在知识的海洋里遨游。三位老师，我要说谢谢你，没有你们，就没有现在的我。
 
 <!--in <https://www.luogu.com.cn/user/602124#main>
 ## 求大佬们加入我的团队吧：[我的团队](https://www.luogu.com.cn/team/42234)
