@@ -37,7 +37,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
-in <https://www.luogu.com.cn/user/602124#main>
+# c++
+我记得我是从2021年9月开始学编程的，我接触到的第一个编程语言是python，那时候，我开是学习最基础的运算，我写的第一个程序是输出“hello world”：
+```python
+print("hello world")
+```
+
+<!--in <https://www.luogu.com.cn/user/602124#main>
 ## 求大佬们加入我的团队吧：[我的团队](https://www.luogu.com.cn/team/42234)
 # [新比赛](https://www.luogu.com.cn/contest/71676)
 我是[幸存者](https://www.luogu.com.cn/user/549357)、[好朋友](https://www.luogu.com.cn/user/493127)的粉丝
@@ -116,5 +122,5 @@ int main(){
 [回到顶部](https://www.luogu.com.cn/user/602124#)
 
 [收起](https://www.luogu.com.cn/user/602124#ztrztr)
-
+-->
 
